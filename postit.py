@@ -1,6 +1,5 @@
 import numpy as np
 import cv2
-import skimage
 from skimage import color
 
 #Python3
